@@ -1,3 +1,22 @@
 # devops
-Básico de git e github linux mint
-Douglas IF
+Básico de git e github linux mint<br>
+Douglas IF<br>
+Praticar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
